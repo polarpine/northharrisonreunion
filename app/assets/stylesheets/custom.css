@@ -27,6 +27,8 @@ body {
 .tagline {
     text-shadow: 0 0 10px #000;
     color: #fff;
+    text-align: left;
+    padding-left: 20px;
 }
 
 .contact {
